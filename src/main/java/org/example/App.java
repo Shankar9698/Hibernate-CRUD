@@ -10,6 +10,7 @@ import java.util.List;
  * Hello world!
  *
  */
+//crud application using hibernate framework !!!
 public class App 
 {
     public static void main( String[] args )
